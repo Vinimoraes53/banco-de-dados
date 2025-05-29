@@ -16,5 +16,13 @@
   },
   "dependencies": {
     "@prisma/client": "^6.8.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinimoraes53/banco-de-dados.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vinimoraes53/banco-de-dados/issues"
+  },
+  "homepage": "https://github.com/Vinimoraes53/banco-de-dados#readme"
 }
